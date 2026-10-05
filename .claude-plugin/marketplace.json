@@ -1,10 +1,10 @@
 {
-  "name": "alexk413x",
+  "name": "library",
   "owner": {
     "name": "Alex Koch",
     "url": "https://github.com/Alexk413x"
   },
-  "description": "Claude Code plugins by Alex Koch. Each plugin works on its own and works better alongside the others.",
+  "description": "The Library: Claude Code plugins by Alex Koch. Each plugin works on its own and works better alongside the others.",
   "plugins": [
     {
       "name": "the-index",

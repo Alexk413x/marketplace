@@ -1,6 +1,6 @@
-# Alex Koch's Claude Code plugins
+# The Library
 
-Claude Code plugins that each work on their own and work better together.
+Claude Code plugins by Alex Koch that each work on their own and work better together.
 
 ## Install
 
@@ -16,7 +16,7 @@ claude plugin marketplace add Alexk413x/marketplace
   shows session cost, limits and git state.
 
   ```sh
-  claude plugin install the-index@alexk413x
+  claude plugin install the-index@library
   ```
 
 Each plugin has its own licence in its repository.
