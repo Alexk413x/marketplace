@@ -1,0 +1,18 @@
+{
+  "name": "alexk413x",
+  "owner": {
+    "name": "Alex Koch",
+    "url": "https://github.com/Alexk413x"
+  },
+  "description": "Claude Code plugins by Alex Koch. Each plugin works on its own and works better alongside the others.",
+  "plugins": [
+    {
+      "name": "the-index",
+      "displayName": "The Index",
+      "source": { "source": "github", "repo": "Alexk413x/the-index" },
+      "description": "A three-line band above the prompt that shows what your session costs, how close you are to a limit, and where your code stands.",
+      "category": "productivity",
+      "tags": ["status-line", "band", "telemetry", "rate-limits", "git", "model-switcher"]
+    }
+  ]
+}
