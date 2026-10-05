@@ -4,16 +4,10 @@ Claude Code plugins that each work on their own and work better together.
 
 ## Install
 
-Add the marketplace once:
+Add the marketplace once, then install any plugin below with its command:
 
 ```sh
 claude plugin marketplace add Alexk413x/marketplace
-```
-
-Then install any plugin below by name:
-
-```sh
-claude plugin install <plugin>@alexk413x
 ```
 
 ## Plugins
