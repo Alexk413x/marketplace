@@ -12,7 +12,7 @@ claude plugin marketplace add Alexk413x/marketplace
 
 ## Plugins
 
-- **[The Index](https://github.com/Alexk413x/the-index)**: a band above the prompt that
+- **[The Index](https://github.com/Alexk413x/the-index)** - A band above the prompt that
   shows session cost, limits and git state.
 
   ```sh
