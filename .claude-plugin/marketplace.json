@@ -9,7 +9,7 @@
     {
       "name": "the-index",
       "displayName": "The Index",
-      "source": { "source": "github", "repo": "Alexk413x/the-index" },
+      "source": { "source": "url", "url": "https://github.com/Alexk413x/the-index.git" },
       "description": "A three-line band above the prompt that shows what your session costs, how close you are to a limit, and where your code stands.",
       "category": "productivity",
       "tags": ["status-line", "band", "telemetry", "rate-limits", "git", "model-switcher"]
