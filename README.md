@@ -18,8 +18,11 @@ claude plugin install the-index@alexk413x
 
 ## Plugins
 
-| Plugin | What it does |
-|---|---|
-| [The Index](https://github.com/Alexk413x/the-index) | A band above the prompt that shows session cost, limits and git state. |
+- **[The Index](https://github.com/Alexk413x/the-index)**: a band above the prompt that
+  shows session cost, limits and git state.
+
+  ```sh
+  claude plugin install the-index@alexk413x
+  ```
 
 Each plugin has its own licence in its repository.
