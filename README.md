@@ -10,10 +10,10 @@ Add the marketplace once:
 claude plugin marketplace add Alexk413x/marketplace
 ```
 
-Then install any plugin by name:
+Then install any plugin below by name:
 
 ```sh
-claude plugin install the-index@alexk413x
+claude plugin install <plugin>@alexk413x
 ```
 
 ## Plugins
