@@ -13,6 +13,14 @@
       "description": "A three-line band above the prompt that shows what your session costs, how close you are to a limit, and where your code stands.",
       "category": "productivity",
       "tags": ["status-line", "band", "telemetry", "rate-limits", "git", "model-switcher"]
+    },
+    {
+      "name": "ide-agent-tabs",
+      "displayName": "Agent Tabs",
+      "source": { "source": "url", "url": "https://github.com/Alexk413x/ide-agent-tabs.git", "ref": "release" },
+      "description": "Open Claude Code, Codex, Gemini CLI and other agent sessions in IDE and terminal tabs, message between them, and delegate work to another agent.",
+      "category": "development",
+      "tags": ["agents", "ide", "jetbrains", "vscode", "terminal", "multi-agent", "messaging", "delegation", "mcp"]
     }
   ]
 }

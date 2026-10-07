@@ -19,4 +19,11 @@ claude plugin marketplace add Alexk413x/marketplace
   claude plugin install the-index@alexk413x
   ```
 
+- **[Agent Tabs](https://github.com/Alexk413x/ide-agent-tabs)** - Opens agent sessions in IDE
+  and terminal tabs, messages between them, and delegates work to another agent CLI.
+
+  ```sh
+  claude plugin install ide-agent-tabs@alexk413x
+  ```
+
 Each plugin has its own licence in its repository.
