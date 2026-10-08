@@ -12,18 +12,25 @@ claude plugin marketplace add Alexk413x/marketplace
 
 ## Plugins
 
-- **[The Index](https://github.com/Alexk413x/the-index)** - A band above the prompt that
-  shows session cost, limits and git state.
-
-  ```sh
-  claude plugin install the-index@alexk413x
-  ```
-
 - **[Agent Tabs](https://github.com/Alexk413x/ide-agent-tabs)** - Opens agent sessions in IDE
   and terminal tabs, messages between them, and delegates work to another agent CLI.
 
   ```sh
   claude plugin install ide-agent-tabs@alexk413x
+  ```
+
+- **[Codebase KG](https://github.com/Alexk413x/codebase-kg)** - A committed, searchable code
+  graph for each repo, so an agent finds code without mapping it again every session.
+
+  ```sh
+  claude plugin install codebase-kg@alexk413x
+  ```
+
+- **[The Index](https://github.com/Alexk413x/the-index)** - A band above the prompt that
+  shows session cost, limits and git state.
+
+  ```sh
+  claude plugin install the-index@alexk413x
   ```
 
 Each plugin has its own licence in its repository.

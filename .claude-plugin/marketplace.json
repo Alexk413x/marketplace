@@ -7,20 +7,28 @@
   "description": "Claude Code plugins by Alex Koch. Each plugin works on its own and works better alongside the others.",
   "plugins": [
     {
-      "name": "the-index",
-      "displayName": "The Index",
-      "source": { "source": "url", "url": "https://github.com/Alexk413x/the-index.git", "ref": "release" },
-      "description": "A three-line band above the prompt that shows what your session costs, how close you are to a limit, and where your code stands.",
-      "category": "productivity",
-      "tags": ["status-line", "band", "telemetry", "rate-limits", "git", "model-switcher"]
-    },
-    {
       "name": "ide-agent-tabs",
       "displayName": "Agent Tabs",
       "source": { "source": "url", "url": "https://github.com/Alexk413x/ide-agent-tabs.git", "ref": "release" },
       "description": "Open Claude Code, Codex, Gemini CLI and other agent sessions in IDE and terminal tabs, message between them, and delegate work to another agent.",
       "category": "development",
       "tags": ["agents", "ide", "jetbrains", "vscode", "terminal", "multi-agent", "messaging", "delegation", "mcp"]
+    },
+    {
+      "name": "codebase-kg",
+      "displayName": "Codebase KG",
+      "source": { "source": "url", "url": "https://github.com/Alexk413x/codebase-kg.git", "ref": "release" },
+      "description": "A committed, searchable code graph for each repo, so an agent finds code without mapping the codebase again every session. Links paired repos to track feature parity.",
+      "category": "development",
+      "tags": ["knowledge-graph", "codebase", "code-map", "code-index", "parity", "cross-codebase", "mcp", "language-agnostic"]
+    },
+    {
+      "name": "the-index",
+      "displayName": "The Index",
+      "source": { "source": "url", "url": "https://github.com/Alexk413x/the-index.git", "ref": "release" },
+      "description": "A three-line band above the prompt that shows what your session costs, how close you are to a limit, and where your code stands.",
+      "category": "productivity",
+      "tags": ["status-line", "band", "telemetry", "rate-limits", "git", "model-switcher"]
     }
   ]
 }
