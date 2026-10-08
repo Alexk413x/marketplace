@@ -23,6 +23,14 @@
       "tags": ["knowledge-graph", "codebase", "code-map", "code-index", "parity", "cross-codebase", "mcp", "language-agnostic"]
     },
     {
+      "name": "sentinel-swarm",
+      "displayName": "Sentinel Swarm",
+      "source": { "source": "url", "url": "https://github.com/Alexk413x/sentinel-swarm.git", "ref": "release" },
+      "description": "An agent swarm that takes a PRD to built, tested, reviewed code: an Oracle, Managers, Leads and Coders, each its own session, held to a shared ledger and a scoring rubric.",
+      "category": "development",
+      "tags": ["agent-swarm", "multi-agent", "orchestration", "code-review", "ledger", "rubric", "prd-to-code", "mcp"]
+    },
+    {
       "name": "the-index",
       "displayName": "The Index",
       "source": { "source": "url", "url": "https://github.com/Alexk413x/the-index.git", "ref": "release" },

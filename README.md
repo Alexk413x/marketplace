@@ -26,6 +26,15 @@ claude plugin marketplace add Alexk413x/marketplace
   claude plugin install codebase-kg@alexk413x
   ```
 
+- **[Sentinel Swarm](https://github.com/Alexk413x/sentinel-swarm)** - An agent swarm that
+  takes a PRD to built, tested, reviewed code, with every hand-off checked against a shared
+  ledger. Requires Codebase KG.
+
+  ```sh
+  claude plugin install codebase-kg@alexk413x
+  claude plugin install sentinel-swarm@alexk413x
+  ```
+
 - **[The Index](https://github.com/Alexk413x/the-index)** - A band above the prompt that
   shows session cost, limits and git state.
 
